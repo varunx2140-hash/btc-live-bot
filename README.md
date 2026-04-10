@@ -120,7 +120,7 @@ def center(text, width=40):
 # =====================
 # MAIN LOOP
 # =====================
-os.system("clear")
+# os.system("clear")
 print(center("BTC LIVE BOT STARTED"))
 
 while True:
